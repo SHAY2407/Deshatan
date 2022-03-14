@@ -1,0 +1,95 @@
+* {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+  }
+
+.container{
+    text-decoration: none;
+    color: #F7F3F5;
+}
+.desh{
+    text-align: center;
+    margin-top: 120px;
+}
+.pop{
+    text-align: center;
+    margin-bottom: 80px;
+}
+#rectangle1{
+    width:393px;
+    height:530px;
+    background: #F7F3F5;
+    margin-top: -270px;
+    border-radius: 30px;
+
+}
+#rectangle2{
+    width:393px;
+    height:600px;
+    background:#023436;
+
+}
+.abc{
+    margin-top: -600px;
+
+}
+.circle{
+    text-align: center;
+}
+.pro{
+    text-align: center;
+    margin-top: -55px;
+}
+.name{
+    text-align: center;
+    margin-top: 20px;
+}
+.follower{
+    margin-left: 90px;
+    margin-top: -1px;
+}
+.follow{
+    margin-left: 200px;
+    margin-top: -24px;
+}
+.place{
+    margin-left: 160px;
+    margin-top: -2px;
+}
+.word1{
+    margin-top: 50px;
+}
+.word2{
+    margin-left: 130px;
+    margin-top: -25px;
+}
+.line{
+    margin-top: -15px;
+}
+.rect{
+    margin-top: -23px;
+    margin-left: 8px;
+}
+.place1{
+    margin-top: -5px;
+}
+.number1{
+    margin-top: -25px;
+    margin-left: 5px;
+}
+.star{
+    margin-top: -29px;
+    margin-left: 20px;
+}
+.name2{
+    margin-top: -250px;
+}
+.place2{
+    margin-top: -5px;
+}
+.number2{
+    margin-top: -25px;
+    margin-left: 5px;
+}
