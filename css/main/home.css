@@ -1,0 +1,87 @@
+* {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+  }
+.container7{
+    text-decoration: none;
+    color: #F7F3F5;
+    
+}
+
+.desh{
+    text-align: center;
+    padding-top: 150px;
+    padding-bottom: 20px;
+}
+.pop{
+    text-align: center;
+    padding-bottom: 30px;
+}
+.random{
+    padding-left: 60px;
+    padding-bottom: 100px;
+}
+
+.container1{
+    text-decoration: none;
+    background-color: #F7F3F5;
+    border-radius: 35px;
+    padding-bottom: 400px;
+}
+.container2{
+    padding-top: 65px;
+    padding-bottom: 80px;
+}
+
+.abcd{
+    text-align: center;
+    margin-top: -20px;
+    font-size: 16px;
+}
+
+.alt{
+    margin-top: -90px;
+    margin-left: 130px;
+}
+ .yash{
+     margin-top: -28px;
+     margin-left: 140px;
+ }
+ .mango{
+     margin-left: 30px;
+ }
+
+ .container3{
+  
+    text-align: center;
+    padding-bottom: 20px;
+    
+ } 
+
+.floor{
+    padding-top: 20px;
+    padding-left: 75px;
+}
+
+.login{
+    background-color: #023436;
+    border-radius: 35px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    color: #F7F3F5;
+    padding-left: 95px;
+    padding-right: 95px;
+    
+}
+
+.sign{
+    background-color: #023436;
+    border-radius: 35px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    color: #F7F3F5;
+    padding-left: 83px;
+    padding-right: 83px;    
+}
