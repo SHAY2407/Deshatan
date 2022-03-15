@@ -1,0 +1,116 @@
+* {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+  }
+  .Heading {
+    display: flex;
+      align-items: center;
+      flex-direction: column;
+      justify-content: center;
+      padding-bottom: 15%;
+  
+      background: #023436;
+      margin: 0;
+      font-family: 'Poppins';
+      color: #E7DADA;
+      padding-top: 300px;
+      text-align: center;
+  }
+  .text {
+    margin-top: -300px;
+  }
+  .Register {
+    background: #F7F3F5;
+      border-radius: 35px;
+      
+        margin-right: 5%;
+   margin-left: 5%;
+   margin-top: -30%;
+   
+  
+  }
+  .Enter{
+    background: #F4743B;
+    padding: 10px;
+    height: 35px;
+   width: 35px;
+   border-radius: 95%;
+   display: inline-block;
+   margin-left: 315px;
+  margin-top: 50px;
+  
+   
+  }
+  .FirstName{
+    background: #F7F3F5;
+    margin-top: 20px;
+    margin-left: -20px;
+    border-width: 0 0 2px;
+    border-color: black;
+    width: 300px;
+  }
+  .LastName {
+    background: #F7F3F5;
+    margin-left: -20px;
+    margin-top: 30px;
+    border-width: 0 0 2px;
+    border-color: black;
+    width: 300px;
+  }
+  .Email {
+    background: #F7F3F5;
+    margin-left: -20px;
+    margin-top: 30px;
+    border-width: 0 0 2px;
+    border-color: black;
+    width: 300px;
+  }.Password {
+    background: #F7F3F5;
+    margin-left: -20px;
+    margin-top: 30px;
+    border-width: 0 0 2px;
+    border-color: black;
+    width: 300px;
+  }.ConfirmPassword {
+    background: #F7F3F5;
+    margin-left: -20px;
+    margin-top: 30px;
+    border-width: 0 0 2px;
+    border-color: black;
+    width: 300px;
+  }
+  .text2{
+   text-align: center;
+    margin-left: 4%;
+    margin-top: 5%;
+    
+  }
+  
+  .text3{
+  
+    
+
+  }
+  .text4{
+    
+  }
+  .arrow{
+    margin-top: 7px;
+    margin-left: 9px;
+  }
+  .XYZ {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .ABC{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-top: 50px;
+  }
+  
