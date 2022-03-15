@@ -1,0 +1,67 @@
+* {
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+}
+.Heading {
+  display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    padding-bottom: 15%;
+
+    background: #023436;
+    margin: 0;
+    font-family: 'Poppins';
+    color: #E7DADA;
+    padding-top: 300px;
+    text-align: center;
+}
+.text {
+  margin-top: -300px;
+}
+.Login {
+  background: #F7F3F5;
+    border-radius: 35px;
+    padding-bottom: 250px;
+      margin-right: 5%;
+ margin-left: 5%;
+  margin-top: -30%;
+
+}
+.Enter{
+  background: #F4743B;
+  padding: 7px;
+  height: 35px;
+ width: 35px;
+ border-radius: 75%;
+ display: inline-block;
+ margin-left: 335px;
+ margin-top: -100px;
+ 
+}
+.email{
+  margin-top: 20px;
+  margin-left: 30px;
+}
+.password {
+  margin-left: 30px;
+  margin-top: 12px;
+}
+.text2{
+
+  margin-left: 4%;
+  margin-top: 5%;
+}
+.Account{
+margin-top: 2%;
+margin-left: 15%;
+}
+.text3{
+  margin-left: 78%;
+  margin-bottom: 14px;
+}
+.text4{
+  margin-top: 75px;
+}
