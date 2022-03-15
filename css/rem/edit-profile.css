@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+body{
+    background: #F7F3F5;
+    margin: 0;
+    font-family: 'Poppins';
+}
+.edit{
+    margin:10px;
+    font-weight: bold;
+    font-size: larger;
+}
+.cover{
+    font-size: small;
+    margin: 10px;
+}
+.prof{
+    font-size: small;
+    margin: 10px;
+}
+.pic{
+    margin-left: 8px;
+    margin-top: -5px;
+}
+.camera{
+    margin-top: -25px;
+    margin-left: 50px;
+}
+.ap{
+    margin-top: -23px;
+    margin-left: 80px;
+}
+.line11{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.name{
+    font-size: small;
+    margin-left: 5px;
+}
+.urname{
+    margin-top: 5px;
+    margin-left: 5px;
+    outline: 0;
+    border-width: 0 0 2px;
+    border-color: grey;
+    background: #F7F3F5;
+}
+.phn{
+    font-size: small;
+    margin-left: 5px;
+}
+.phno{
+    margin-top: 5px;
+    margin-left: 5px;
+    outline: 0;
+    border-width: 0 0 2px;
+    border-color: grey;
+    background: #F7F3F5;
+}
+.email{
+    font-size: small;
+    margin-left: 5px;
+}
+.mail{
+    margin-top: 5px;
+    margin-left: 5px;
+    outline: 0;
+    border-width: 0 0 2px;
+    border-color: grey;
+    background: #F7F3F5;
+}
+.desc{
+    font-size: small;
+    margin-left: 5px;
+}
+.descw{
+    margin-top: 5px;
+    margin-left: 5px;
+    outline: 0;
+    border-width: 0 0 2px;
+    border-color: grey;
+    background: #F7F3F5;
+}
+.save{
+    margin-top: -28px;
+    margin-left: 90px;
+}
+.save-button{
+    text-decoration: none;
+    color: black;
+}
+.but{
+    margin-left: 9px;
+}
