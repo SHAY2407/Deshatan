@@ -15,7 +15,7 @@ A website, hackathon team-based project written in HTML, CSS and JS
 ## Features to be Added
 
 - [x] A login screen.
-- [x] A Registeration screen.
+- [x] A Registration screen.
 - [x] Feed/Dashboard
 - [x] Profile
 - [ ] Google Maps
