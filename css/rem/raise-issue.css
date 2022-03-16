@@ -1,0 +1,73 @@
+* {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+.s1 {
+    margin-right: 20px;
+}
+
+.title {
+    margin-left: 80px;
+}
+
+.loc {
+    margin-top: 30px;
+    margin-left: 50px;
+}
+
+.com {
+    background-color: #F7F3F5;
+    margin-left: 20px;
+    border-radius: 30px;
+}
+
+.h {
+    margin-left: 90px;
+    margin-top: -30px;
+    color: #000000;
+}
+
+.note {
+    margin-left: 100px;
+    margin-top: -23px;
+}
+
+.issue {
+    margin-left: 30px;
+}
+
+.arr {
+    margin-left: 20px;
+    margin-top: 30px;
+}
+
+.li {
+    margin-left: 20px;
+}
+
+.s {
+    margin-left: 30px;
+}
+
+.add {
+    margin-left: 30px;
+}
+
+.un {
+    margin-top: 30px;
+}
+
+.un1 {
+    margin-top: -60px;
+    margin-left: 15px;
+}
+
+.send {
+    margin-left: 165px;
+    margin-top: 20px;
+}
+
+;
