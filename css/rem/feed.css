@@ -1,0 +1,92 @@
+* {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+.u1 {
+    background-color: #F7F3F5;
+    width: 90%;
+    margin-left: 5%;
+    margin-bottom: 30px;
+}
+
+.a1 {
+    border-radius: 10px;
+    background-color: #EC8F65;
+}
+
+.a2 {
+    background-color: #F7F3F5;
+    height: 165px;
+}
+
+.lc {
+    margin-left: 25%;
+}
+
+.aa {
+    margin-left: 10%;
+    margin-top: -15%;
+}
+
+.aa1 {
+    margin-left: 10%;
+}
+
+.top {
+    margin-top: -1.9%;
+    background-color: #023436;
+}
+
+.prof {
+    margin-left: 5%;
+    margin-top: 2%;
+}
+
+.search {
+    margin-left: 30%;
+    margin-top: -7%;
+}
+
+.side {
+    margin-left: 80%;
+    margin-top: -6%;
+}
+
+.mid {
+    margin-top: 5%;
+}
+
+.topnav {
+    border-radius: 30px;
+}
+
+.us {
+    margin-top: -33px;
+    margin-left: 23px;
+}
+
+.plus {
+    margin-left: 300px;
+    margin-top: -50px;
+}
+
+.gcr {
+    margin-left: 295px;
+}
+
+.pp {
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.txt {
+    padding-left: 50px;
+    margin-top: -30px;
+}
+
+.pp {
+    padding-left: 20px;
+}
