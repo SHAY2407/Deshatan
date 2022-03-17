@@ -25,6 +25,10 @@
     border-radius: 30px;
 
 }
+.box {
+    margin-left: 25px;
+}
+
 #rectangle2{
     width:393px;
     height:600px;
@@ -55,8 +59,14 @@
     margin-top: -24px;
 }
 .place{
-    margin-left: 160px;
-    margin-top: -2px;
+    margin-left: 170px;
+    margin-top: 5px;
+}
+.words {
+    margin-left: 25px;
+}
+.name1 {
+    margin-left: 25px;
 }
 .word1{
     margin-top: 50px;
@@ -74,22 +84,28 @@
 }
 .place1{
     margin-top: -5px;
+    margin-left: 25px;
 }
 .number1{
     margin-top: -25px;
     margin-left: 5px;
+    margin-left: 25px;
 }
 .star{
     margin-top: -29px;
     margin-left: 20px;
+    margin-left: 40px;
 }
 .name2{
     margin-top: -250px;
+    margin-left: 25px;
 }
 .place2{
     margin-top: -5px;
+    margin-left: 25px;
 }
 .number2{
     margin-top: -25px;
     margin-left: 5px;
+    margin-left: 25px;
 }

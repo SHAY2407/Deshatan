@@ -37,6 +37,13 @@
 
 .issue {
     margin-left: 30px;
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
+
+.photo {
+    margin-bottom: -10px;
+    margin-top: 20px;
 }
 
 .arr {
@@ -50,6 +57,7 @@
 
 .s {
     margin-left: 30px;
+    margin-bottom: 20px;
 }
 
 .add {

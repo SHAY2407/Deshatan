@@ -14,6 +14,13 @@ body{
 .cover{
     font-size: small;
     margin: 10px;
+    height: 20px;
+    width: 20px;
+}
+.cov{
+    height: 180px;
+    width: 394px;
+    background-color: #C4C4C4;
 }
 .prof{
     font-size: small;
@@ -44,6 +51,7 @@ body{
     margin-left: 5px;
     outline: 0;
     border-width: 0 0 2px;
+    width: 320px;
     border-color: grey;
     background: #F7F3F5;
 }
@@ -54,6 +62,7 @@ body{
 .phno{
     margin-top: 5px;
     margin-left: 5px;
+    width: 320px;
     outline: 0;
     border-width: 0 0 2px;
     border-color: grey;
@@ -66,6 +75,7 @@ body{
 .mail{
     margin-top: 5px;
     margin-left: 5px;
+    width: 320px;
     outline: 0;
     border-width: 0 0 2px;
     border-color: grey;
@@ -78,6 +88,7 @@ body{
 .descw{
     margin-top: 5px;
     margin-left: 5px;
+    width: 320px;
     outline: 0;
     border-width: 0 0 2px;
     border-color: grey;
@@ -85,7 +96,7 @@ body{
 }
 .save{
     margin-top: -28px;
-    margin-left: 90px;
+    margin-left: 140px;
 }
 .save-button{
     text-decoration: none;
@@ -93,4 +104,7 @@ body{
 }
 .but{
     margin-left: 9px;
+}
+.but{
+    margin-left: 40px;
 }
