@@ -1,5 +1,5 @@
 # Deshatan
-A website, hackathon team-based project written in HTML, CSS and JS
+SRM Internal SIH team-based finalist project
 
 ## Features to be Added
 
